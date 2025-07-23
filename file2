@@ -1,0 +1,7 @@
+adding code to file 2
+def add(a,b):
+ c = a + b
+ retrun c
+
+c = add(2,3)
+print(c)
